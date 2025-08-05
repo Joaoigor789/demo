@@ -8,7 +8,8 @@ Projeto exemplo de um banco digital simples usando Java 17, Spring Boot 3, JPA e
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Joaoigor789.demo)
 
-# Visitas nos Últimos 7 Dias
+# linkedin
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/joaoigor789) ← clique aqui pra ver o linkedin
 
 
 
