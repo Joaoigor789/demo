@@ -11,8 +11,19 @@ Projeto exemplo de um banco digital simples usando Java 17, Spring Boot 3, JPA e
 # linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/joaoigor789) ← clique aqui pra ver o linkedin
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoigor789&layout=compact&theme=radical)
+## 📊 Estatísticas do GitHub
 
+<!-- Estatísticas gerais -->
+![Joaoigor789's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoigor789&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+
+<!-- Top linguagens -->
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoigor789&layout=compact&theme=dark)
+
+<!-- Streak de contribuições -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joaoigor789&theme=dark)
+
+<!-- Troféus do GitHub -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Joaoigor789&theme=dark)
 
 
 ---
