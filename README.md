@@ -58,6 +58,12 @@ http://localhost:8080/conta-detalhe.html
 ### Histórico de Transações
 ![Histórico de Transações](docs/images/screenshot-transacoes.png)
 
+### BANCO H2
+![BANCO H2](docs/images/banco%20h2.png)
+
+### BANCO H2 INFO
+![BANCO H2 INFO](docs/images/banco%20h2%20pt2.png)
+
 
 
 ---
