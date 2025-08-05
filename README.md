@@ -11,6 +11,7 @@ Projeto exemplo de um banco digital simples usando Java 17, Spring Boot 3, JPA e
 # linkedin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/joaoigor789) ← clique aqui pra ver o linkedin
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoigor789&layout=compact&theme=radical)
 
 
 
