@@ -4,6 +4,25 @@
     <meta charset="UTF-8" />
     <title>Banco Digital</title>
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="manifest" href="manifest.json" />
+    <meta name="theme-color" content="#1976d2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Ícones -->
+    <link rel="icon" href="/fav_icon/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/fav_icon/favicon.svg" type="image/svg+xml" />
+
+    <!-- Manifest PWA -->
+    <link rel="manifest" href="/fav_icon/site.webmanifest" />
+
+    <!-- Configuração para iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Banco Digital" />
+    <link rel="apple-touch-icon" href="/fav_icon/favicon.ico" />
+
+    <!-- Tema da barra do navegador -->
+    <meta name="theme-color" content="#1976d2" />
+
 </head>
 <body>
 <header>
@@ -23,5 +42,14 @@
 <footer>
     <p>© 2025 Banco Digital</p>
 </footer>
+
+<script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(() => console.log('Service Worker registrado com sucesso!'))
+        .catch(err => console.log('Falha ao registrar Service Worker:', err));
+    }
+</script>
+
 </body>
 </html>

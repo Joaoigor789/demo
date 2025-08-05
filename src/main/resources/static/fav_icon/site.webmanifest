@@ -1,0 +1,20 @@
+{
+  "name": "Banco Digital",
+  "short_name": "BancoApp",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": [
+    {
+      "src": "/fav_icon/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/fav_icon/favicon.ico",
+      "sizes": "48x48 72x72 96x96 144x144 192x192 512x512",
+      "type": "image/x-icon"
+    }
+  ]
+}
