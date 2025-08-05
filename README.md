@@ -4,6 +4,12 @@ Projeto exemplo de um banco digital simples usando Java 17, Spring Boot 3, JPA e
 
 ---
 
+# Meu Projeto/artigo
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Joaoigor789.demo)
+
+
+---
 ## Tecnologias
 
 - Java 17
